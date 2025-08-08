@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- SVG bio stuff-->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tega007/lightmode.svg/main/Readme_Prod_v2_lightmode.svg">
+  <img src="https://raw.githubusercontent.com/Tega007/darkmode.svg/main/Readme_Prod_v2.svg" alt="Benedict Eko GitHub Profile" width="100%">
+</picture>
+<!-- LinkedIn button-->
+<p align="center">
+  <strong>👇🏾 Connect with me on LinkedIn 👇🏾</strong><br><br>
+  ⇩⇩⇩
+</p>
 
-<!--
-**Tega007/Tega007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/benedict-eko" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+<!--Git Stat-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tega007&layout=compact&theme=github_dark&hide_border=true">
